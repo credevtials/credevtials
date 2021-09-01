@@ -1,7 +1,7 @@
 <h1 align="center">Welcome on creDEVtials ! 👋</h1>
 <h3 align="center">Aspiring Data Analyst with strong domain knowledge in Bioscience</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif?raw=true" width="500" height="320" />
-
+<img align="right" alt="" src="https://raw.githubusercontent.com/credevtials/credevtials/main/img/programmers.jpg?raw=true" width="500" height="320" />
+<!--- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/coder.gif?raw=true" width="500" height="320" /> --->
 
 - 👨‍💻 Enthusiastic and detail-oriented Data Manager within the areas of healthcare and biomedical science.
 - 🤝 My motivation to add value, my enthusiasm to learn and my love of problem-solving allow me to step into any situation.
